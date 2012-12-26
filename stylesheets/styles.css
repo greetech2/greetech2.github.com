@@ -20,3 +20,7 @@
 .speakers td.speaker {
     text-align: center;
 }
+
+.columns ul {
+    padding-left: 1em;
+}
